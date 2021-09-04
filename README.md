@@ -1,1 +1,1 @@
-Configuration file I run at startup for my monitors
+Configuration file at startup for  monitors
